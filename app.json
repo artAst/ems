@@ -1,0 +1,7 @@
+{
+  "name": "Auphantum EMS - Employee Management System",
+  "description": "Employee Management System",
+  "repository": "https://github.com/artAst/ems",
+  "logo": "http://g00glen00b.be/wp-content/uploads/2012/08/spring-boot-logo.png",
+  "keywords": ["java", "spring", "spring boot", "EMS"]
+}
