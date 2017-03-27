@@ -1,5 +1,8 @@
 Auphantum EMS (Employee Management System) Application
 =====
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 Overview
 ------
 The EMS Application also known as Employee Management System is a sofware application design to manage employees.
